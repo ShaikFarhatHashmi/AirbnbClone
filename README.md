@@ -1,1 +1,1 @@
-This is the cloned application of a famous website named Airbnb.You can access the website by clicking on the link "https://airbnbclone-zps4.onrender.com".
+This is a cloned application of a famous website named Airbnb.This was build by using javascript,html,css,node.js,express.js ,mongoDB etc.You can access the website by clicking on the link "https://airbnbclone-zps4.onrender.com".
